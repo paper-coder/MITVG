@@ -7,7 +7,7 @@ Setup and Dependencies
 ----------------------
 
 This starter code is implemented using PyTorch v1.0, and provides out of the box support with CUDA 9 and CuDNN 7.
-There are two recommended ways to set up this codebase: Anaconda or Miniconda, and Docker.
+There are two recommended ways to set up this codebase: Anaconda or Miniconda.
 
 ### Anaconda or Miniconda
 
