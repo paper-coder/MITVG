@@ -80,9 +80,9 @@ Results and pretrained checkpoints
 
 Performance on `v1.0 val` (trained on `v1.0` train):
 
-  Model  |  R@1   |  R@5   |  R@10  | MeanR  |  MRR   |  NDCG  |
+  Model  | MRR |  R@1   |  R@5   |  R@10  | MeanR  |  NDCG  |
  ------- | ------ | ------ | ------ | ------ | ------ | ------ |
-[MITVG][12] | 0.4617 | 0.7780 | 0.8730 |  4.7545| 0.6041 | 0.5162 |
+[MITVG][12] | 51.14 | 41.03 | 61.25 | 68.49| 14.37 | 61.47 |
 
 
 Acknowledgements
