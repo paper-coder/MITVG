@@ -1,7 +1,7 @@
 # MITVG
 ====================================
 ![alt text](image/MITVG.png)
-<p align="center">Example results from the VisDial v1.0 validation dataset.</p>
+<p align="center">Framework of MITVG.</p>
 
 This is a PyTorch implementation for Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue.
 
