@@ -1,7 +1,7 @@
 # MITVG
 This is a PyTorch implementation for Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue.
 <!--![Overview of MITVG](image/MITVG.jpg)-->
-<img src="image/MITVG.png" width="60%" align="center">
+<img src="image/MITVG.png" width="50%" align="center">
 
 Setup and Dependencies
 ----------------------
@@ -34,11 +34,11 @@ Data Preparing
 
 2. Get the word counts for VisDial v1.0 train split [here][2]. They are used to build the vocabulary.
 
-3. We extracte image features of VisDial v1.0 images, using a Faster-RCNN pre-trained on Visual Genome,, introduction and code from [here][3].
+3. We extracte image features of VisDial v1.0 images, using a Faster-RCNN pre-trained on Visual Genome, introduction and code from [here][3].
 
-4. We use NeuralCore for reference resolution, introduction and code from [here][4]
+4. We use NeuralCore for reference resolution, introduction and code from [here][4].
 
-5. We use Visual Grounding Model to obatin our visual grounding features, introduction and code from [here][5]
+5. We use Visual Grounding Model to obatin our visual grounding features, introduction and code from [here][5].
 
 
 Training
@@ -82,7 +82,7 @@ Performance on `v1.0 val` (trained on `v1.0` train):
 
   Model  | MRR |  R@1   |  R@5   |  R@10  | MeanR  |  NDCG  |
  ------- | ------ | ------ | ------ | ------ | ------ | ------ |
-[MITVG][12] | 51.14 | 41.03 | 61.25 | 68.49| 14.37 | 61.47 |
+MITVG | 51.14 | 41.03 | 61.25 | 68.49| 14.37 | 61.47 |
 
 
 Acknowledgements
