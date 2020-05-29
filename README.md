@@ -1,7 +1,7 @@
 # MITVG
-====================================
-![alt text](image/MITVG.png)
-<p align="center">Framework of MITVG.</p>
+
+<!--![Overview of MITVG](image/MITVG.jpg)-->
+<img src="image/MITVG.png" width="90%" align="middle">
 
 This is a PyTorch implementation for Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue.
 
